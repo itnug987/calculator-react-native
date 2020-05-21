@@ -1,6 +1,9 @@
 # calculator-react-native
 A simple calculator application built on react native
 
+<img src="Screenshots/Screenshot_1.png" width="150" height="300">      
+<img src="Screenshots/Screenshot_2.png" width="150 height="300">
+
 Setting up the developement environment:
 
 1. Install chocolatey package manager for windows at https://chocolatey.org/install
