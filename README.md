@@ -1,5 +1,5 @@
 # calculator-react-native
-A simple calculator application built on react native
+A simple calculator application built on react native. 
 
 Setting up the developement environment:
 
@@ -14,7 +14,7 @@ To run this application:
 
 1. Clone this repository to your local system
 2. Open any emulator or connect an android device using usb
-3. Open adminstrator command prompt and run the following commands:
+3. Open command prompt as administrator and run the following commands:
 
 cd calculator-react-native
 npx react-native run-android
